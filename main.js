@@ -2,22 +2,21 @@
 
 function main(){
 
+    caseX();
+
+}
+main();
+// I know that I will need a function 
+// I know  that I may need a uuppercase
+
+function caseX(){
+
+   let question = prompt("Ways to do this code")
+ // what is going on that my let isn't being a variable
+ if (question.toUpperCase === question){}
 
 
 }
-var numberOrder1 = [1,2,3,4,5,6,7,8,9,10]
-var numberOrder2 = [1,2,3,4,5,6,7,8,9,10]
-function proaction1(){
-  
- x = numberOrder1 
- y = numberOrder2
-
- for (let index = 0; index < numberOrder1.length; index++) {
-     
-    
-    
-     
- }
- 
-  
+function question1(){
+let = prompt("what are you from")
 }
